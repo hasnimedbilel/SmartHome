@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon May 07 03:28:43 GMT+01:00 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\asus\\Desktop\\Android_Studio_Projects\\android-BTChatApp\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

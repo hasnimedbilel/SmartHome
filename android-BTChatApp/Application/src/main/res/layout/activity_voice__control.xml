@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dip"
+        android:text="Click the Mic and Start Speaking !"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <ImageButton
+        android:id="@+id/speakButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:layout_gravity="center_horizontal"
+        android:onClick="speakButtonClicked"
+        android:src="@drawable/ic"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_weight="0.09" />
+
+    <TextView
+        android:id="@+id/wordtext"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="90sp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#0000FF"
+        android:textSize="50sp"
+        android:textStyle="italic" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <ImageButton
+            android:id="@+id/retour"
+            android:layout_width="131dp"
+            android:layout_height="80dp"
+            android:layout_gravity="left"
+            android:onClick="retourner"
+            android:src="@drawable/retour"
+            />
+
+        <Button
+            android:id="@+id/voice"
+            android:layout_width="131sp"
+            android:layout_height="80sp"
+            android:layout_gravity="right"
+            android:text="Wifi Control"
+            android:layout_marginLeft="120dp"
+            android:onClick="goToWifi"
+            />
+    </LinearLayout>
+
+</LinearLayout>

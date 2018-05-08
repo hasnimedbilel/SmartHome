@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\2731dc867e4b10c9b7c718eca797d4c29210f279\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_4afe765166dc2bb8879e00c71463fd7fabed405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\005cbb5d81ec28127414e3feec6d02c180fcdae9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_0acbbb7448977eb4611c3d035705a125fde32f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\da90232af76150f8b5e1ea518b1ffb10ac4cb7ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_b9910707f4693358633517e384f7f4e3a29a6e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\aa6a3b93ed95b3d597a31d51f0d7e19160a86972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_ed359734d868a7a50d8491fbfeb44fc72c789335.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_46c352356ec5894a444f8d7b0cdf9fba0c3a4f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\27e7cb26d6247e94f4e53113a8290cb2b91b5177\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_461c3980a17e1ed11f66c201a83621b9d410c376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\bf03e4e5ccd3538b91d78baa574febae1ad67a70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_8d03cb75c02809d2a73b6b5bbc85152c8c41b497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_3d5a995ba846a3cbd5e1cbe68f246851c4f38c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\dd4ae7ef44aa85aaefd130e26dad984220c22d4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_4663f4a84cfa3ec5e68ef963a3cab6df794071b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_be5241db8a329d4559701a43fbb06a6940d65459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\49217976d13a8fcb417abe2247fc68295aab7326\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_af0f810b1b526ef6112e0d5768fd449dea48a3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\26be7ad0af51ba8da3a593e6fe10ffade3cdd4bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_974a9e5c7d55b9bc559b916c1ed554ee074241f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0a4c176a4aa0d352f28e46b4fa00adc593e768c2">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60831ee59921e6699cadb9075dad06b8460e8399\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\829d4c1de92f3b9dfdfebba168c367133ea16ccc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_02930af6a4fc58053557221d09426db9af82ea09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\c72546af88b4b3791893710b13882ce14540ee73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_10c690fcea0f29974ecd818620d3db989e3d7fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\asus\.android\build-cache\ebcbf5aa0d8bbc66c911c23beaa86f11d59aa0eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="C:\Users\asus\Desktop\android-BTChatApp\android-BTChatApp\Application\build\intermediates\pre-dexed\debug\classes_8ec62fb429de5470b04d2b6d7fff32f853f51c12.jar" />
+    </item>
+
+</items>
